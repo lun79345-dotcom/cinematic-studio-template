@@ -1,0 +1,195 @@
+{
+  "brands": [],
+  "services": [
+    {
+      "id": "visual-storytelling",
+      "slug": "visual-storytelling",
+      "name": {
+        "zh": "视觉叙事",
+        "en": "Visual Storytelling"
+      },
+      "label": {
+        "zh": "示例服务",
+        "en": "Example service"
+      },
+      "description": {
+        "zh": "用这个区域介绍你的影像与创意服务。",
+        "en": "Use this area to introduce your creative services."
+      },
+      "seoDescription": {
+        "zh": "用这个区域介绍你的影像与创意服务。",
+        "en": "Use this area to introduce your creative services."
+      },
+      "features": {
+        "zh": [
+          "介绍服务内容",
+          "展示创作流程",
+          "补充交付方式"
+        ],
+        "en": [
+          "Describe your service",
+          "Explain your process",
+          "Present your deliverables"
+        ]
+      },
+      "sections": [
+        {
+          "heading": {
+            "zh": "服务介绍模板",
+            "en": "Service overview template"
+          },
+          "body": {
+            "zh": "在后台编辑这个页面，替换为你自己的服务介绍、流程说明与图片。这里展示的是通用示例，不代表真实公司或项目。",
+            "en": "Edit this page in the content dashboard with your services, workflow and images. This is a generic example, not a real company or project."
+          },
+          "image": "/images/demo-scene.svg",
+          "imageAlt": {
+            "zh": "抽象视觉示例",
+            "en": "Abstract visual example"
+          }
+        }
+      ],
+      "media": {
+        "type": "image",
+        "src": "/images/demo-scene.svg"
+      },
+      "imageAlt": {
+        "zh": "抽象视觉示例",
+        "en": "Abstract visual example"
+      },
+      "imagePosition": "50% 50%",
+      "iconKey": "film",
+      "showOnHome": true,
+      "showInNavigation": true,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "digital-experiences",
+      "slug": "digital-experiences",
+      "name": {
+        "zh": "数字体验",
+        "en": "Digital Experiences"
+      },
+      "label": {
+        "zh": "示例服务",
+        "en": "Example service"
+      },
+      "description": {
+        "zh": "展示你的交互设计与网站服务。",
+        "en": "Present your web and interaction design services."
+      },
+      "seoDescription": {
+        "zh": "展示你的交互设计与网站服务。",
+        "en": "Present your web and interaction design services."
+      },
+      "features": {
+        "zh": [
+          "介绍服务内容",
+          "展示创作流程",
+          "补充交付方式"
+        ],
+        "en": [
+          "Describe your service",
+          "Explain your process",
+          "Present your deliverables"
+        ]
+      },
+      "sections": [
+        {
+          "heading": {
+            "zh": "服务介绍模板",
+            "en": "Service overview template"
+          },
+          "body": {
+            "zh": "在后台编辑这个页面，替换为你自己的服务介绍、流程说明与图片。这里展示的是通用示例，不代表真实公司或项目。",
+            "en": "Edit this page in the content dashboard with your services, workflow and images. This is a generic example, not a real company or project."
+          },
+          "image": "/images/demo-scene.svg",
+          "imageAlt": {
+            "zh": "抽象视觉示例",
+            "en": "Abstract visual example"
+          }
+        }
+      ],
+      "media": {
+        "type": "image",
+        "src": "/images/demo-scene.svg"
+      },
+      "imageAlt": {
+        "zh": "抽象视觉示例",
+        "en": "Abstract visual example"
+      },
+      "imagePosition": "50% 50%",
+      "iconKey": "wand-sparkles",
+      "showOnHome": true,
+      "showInNavigation": true,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "creative-training",
+      "slug": "creative-training",
+      "name": {
+        "zh": "创作工作坊",
+        "en": "Creative Workshops"
+      },
+      "label": {
+        "zh": "示例服务",
+        "en": "Example service"
+      },
+      "description": {
+        "zh": "展示课程或工作坊的内容框架。",
+        "en": "Present the framework for your workshops."
+      },
+      "seoDescription": {
+        "zh": "展示课程或工作坊的内容框架。",
+        "en": "Present the framework for your workshops."
+      },
+      "features": {
+        "zh": [
+          "介绍服务内容",
+          "展示创作流程",
+          "补充交付方式"
+        ],
+        "en": [
+          "Describe your service",
+          "Explain your process",
+          "Present your deliverables"
+        ]
+      },
+      "sections": [
+        {
+          "heading": {
+            "zh": "服务介绍模板",
+            "en": "Service overview template"
+          },
+          "body": {
+            "zh": "在后台编辑这个页面，替换为你自己的服务介绍、流程说明与图片。这里展示的是通用示例，不代表真实公司或项目。",
+            "en": "Edit this page in the content dashboard with your services, workflow and images. This is a generic example, not a real company or project."
+          },
+          "image": "/images/demo-scene.svg",
+          "imageAlt": {
+            "zh": "抽象视觉示例",
+            "en": "Abstract visual example"
+          }
+        }
+      ],
+      "media": {
+        "type": "image",
+        "src": "/images/demo-scene.svg"
+      },
+      "imageAlt": {
+        "zh": "抽象视觉示例",
+        "en": "Abstract visual example"
+      },
+      "imagePosition": "50% 50%",
+      "iconKey": "book-open",
+      "showOnHome": true,
+      "showInNavigation": true,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    }
+  ],
+  "homeCaseSlugs": []
+}

@@ -1,0 +1,10 @@
+.git
+.next
+node_modules
+output
+*.tsbuildinfo
+*.log
+.env
+.env.*
+data/leads.json
+public/uploads

@@ -1,0 +1,2 @@
+type BrandLogoProps = {className?:string;compact?:boolean;priority?:boolean};
+export function BrandLogo({className="",compact=false}:BrandLogoProps) { return <svg viewBox={compact ? "0 0 48 48" : "0 0 240 48"} role="img" aria-label="Studio Template" className={className}><path d="M8 8h30v8H16v8h22v16H8v-8h22v-8H8z" fill="currentColor"/>{!compact && <text x="54" y="32" fill="currentColor" fontFamily="sans-serif" fontSize="24" letterSpacing="2">STUDIO</text>}</svg>; }

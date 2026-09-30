@@ -1,0 +1,19 @@
+services:
+  website:
+    build:
+      context: .
+      args:
+        BASE_PATH: ${BASE_PATH:-}
+        SITE_ORIGIN: ${SITE_ORIGIN:-http://localhost:8060}
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      BASE_PATH: ${BASE_PATH:-}
+      SITE_ORIGIN: ${SITE_ORIGIN:-http://localhost:8060}
+      CASE_ADMIN_PASSWORD: ${CASE_ADMIN_PASSWORD:?Set CASE_ADMIN_PASSWORD}
+      CASE_ADMIN_SECRET: ${CASE_ADMIN_SECRET:?Set CASE_ADMIN_SECRET}
+    ports:
+      - "${WEB_PORT:-8060}:3000"
+    volumes:
+      - ./data:/app/data
+      - ./public/uploads:/app/public/uploads

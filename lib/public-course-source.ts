@@ -1,0 +1,4 @@
+export const PUBLIC_COURSES_ORIGIN = process.env.COURSES_API_ORIGIN?.trim().replace(/\/+$/, "") || "";
+function sourceBasePath() { return PUBLIC_COURSES_ORIGIN ? new URL(PUBLIC_COURSES_ORIGIN).pathname.replace(/\/+$/, "") : ""; }
+export function publicCourseSourceUrl(pathname:string) { if (!PUBLIC_COURSES_ORIGIN) throw new Error("COURSES_API_ORIGIN is not configured."); const source=new URL(PUBLIC_COURSES_ORIGIN); if(!["http:","https:"].includes(source.protocol)) throw new Error("Invalid course origin."); const normalized="/"+pathname.replace(/^\/+/,""); const base=sourceBasePath(); return new URL(base && normalized!==base && !normalized.startsWith(base+"/") ? base+normalized : normalized, source.origin).toString(); }
+export function isPublicCourseAssetPath(pathname:string) { const base=sourceBasePath(); return ["/uploads/","/brand/","/images/"].some(prefix=>pathname.startsWith(prefix) || Boolean(base && pathname.startsWith(base+prefix))); }

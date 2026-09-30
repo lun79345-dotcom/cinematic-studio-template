@@ -1,0 +1,16 @@
+{
+  "homeVideoIds": [],
+  "contact": {
+    "email": "",
+    "careersEmail": "",
+    "phone": "",
+    "icpNumber": "",
+    "publicSecurityNumber": "",
+    "companyName": "",
+    "companyAddress": "",
+    "leadNotificationEmails": [],
+    "wechatQrCode": "",
+    "xiaohongshuQrCode": "",
+    "douyinQrCode": ""
+  }
+}
