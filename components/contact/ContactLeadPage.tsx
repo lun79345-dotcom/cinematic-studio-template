@@ -27,8 +27,8 @@ const pageCopy = {
     heroLabel: "项目咨询",
     heroTitle: "把想法，变成\n值得被看见的作品",
     heroBody: "无论你已有完整脚本，还是只有一个模糊方向，都可以从这里开始。我们先理解目标，再给出可执行的内容路径。",
-    heroAlt: "黑色电影摄影棚中，一道金色光门通往充满想象力的影像世界",
-    processAlt: "导演工作台上的分镜、镜头和制作资料",
+    heroAlt: "黑金空间中的雕塑与发光球体，AI 生成示例",
+    processAlt: "暖阳下的雕塑、素描本与创作工作台，AI 生成示例",
     processTitle: "不需要先把一切想清楚",
     processBody: "一个业务目标、一段故事，甚至一句还没成形的描述，都足以成为开始。我们会与你一起判断创意方向、制作方式和交付边界。",
     steps: [
@@ -80,8 +80,8 @@ const pageCopy = {
     heroLabel: "Project Inquiry",
     heroTitle: "Turn ideas into\nwork worth seeing",
     heroBody: "Bring a finished script or just an early direction. We start by understanding the goal, then shape a practical path to production.",
-    heroAlt: "A golden portal opening into an imaginative film world inside a dark soundstage",
-    processAlt: "Storyboards, lenses, and production references on a director's worktable",
+    heroAlt: "A sculpture and luminous sphere in a dark gallery, AI-generated example",
+    processAlt: "A sunlit sculpture, sketchbook and creative desk, AI-generated example",
     processTitle: "You do not need every answer yet",
     processBody: "A business goal, a story, or one unfinished sentence is enough to begin. Together, we will clarify the creative direction, production approach, and delivery scope.",
     steps: [
@@ -186,7 +186,7 @@ export function ContactLeadPage() {
           aria-hidden="true"
         >
           <Image
-            src={withBasePath("/images/demo-scene.svg")}
+            src={withBasePath("/images/studio-hero.webp")}
             alt=""
             fill
             priority
@@ -220,7 +220,7 @@ export function ContactLeadPage() {
             className="relative min-h-[360px] overflow-hidden rounded-card border border-gold/15 sm:min-h-[500px] lg:hidden"
           >
             <Image
-              src={withBasePath("/images/demo-scene.svg")}
+              src={withBasePath("/images/studio-hero.webp")}
               alt={copy.heroAlt}
               fill
               priority
@@ -237,7 +237,7 @@ export function ContactLeadPage() {
           <div className="lg:sticky lg:top-24 lg:self-start">
             <div className="relative aspect-[4/5] overflow-hidden rounded-card border border-line/15">
               <Image
-                src={withBasePath("/images/demo-scene.svg")}
+                src={withBasePath("/images/creative-workshop.webp")}
                 alt={copy.processAlt}
                 fill
                 sizes="(min-width: 1024px) 36vw, 100vw"

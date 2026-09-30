@@ -1,0 +1,22 @@
+[
+  {
+    "asset": "hero",
+    "generation": "built-in image_gen",
+    "prompt": "Use case: stylized-concept. Asset type: a cinematic creative studio website full-screen hero background. Produce an ORIGINAL exquisite photoreal architectural art installation, wide 16:9 landscape. An immense warm-bronze metallic ribbon loops gracefully through a dark monumental gallery, softly luminous champagne edge light, a single large softly glowing ivory sphere suspended on the RIGHT half, polished black stone, subtle haze and film grain, tactile brushed metal, believable museum-level lighting. Restrained black and champagne-gold palette, sophisticated editorial art direction, no neon. Strong visual interest concentrated on the right and upper right, left lower half deep charcoal negative space for existing website white headline. Premium photographic realism, sculptural, emotionally quiet, 35mm cinematic wide composition. No people, no writing, no logos, no watermark, no website UI, not a collage. Deliver a finished wide bitmap asset."
+  },
+  {
+    "asset": "storytelling",
+    "generation": "built-in image_gen",
+    "prompt": "Use case: stylized-concept. Asset type: cinematic studio service artwork for Visual Storytelling, landscape 3:2. ORIGINAL editorial cinematic still: a flowing translucent champagne silk ribbon winds above undulating dark sand dunes in an infinite black gallery, precise shaft of warm light from upper left, suspended fabric becomes sculptural waves, rich shadow detail, tactile material and exquisite composition. Art-house film atmosphere, photoreal, refined muted charcoal / sand / gold palette to fit a black and gold creative studio website. Single continuous scene, centered sculptural composition that also crops beautifully to portrait 4:5. No words, lettering, logo, people, watermark, no UI, no collage."
+  },
+  {
+    "asset": "digital",
+    "generation": "built-in image_gen",
+    "prompt": "Use case: stylized-concept. Asset type: digital design studio service artwork, landscape 3:2. ORIGINAL high-end editorial 3D still life of frosted optical glass archways and translucent rounded rectangular slabs suspended in a calm deep blue space, soft white light travelling through layered glass, elegant cobalt-blue reflections, one small brushed aluminium sphere, precise architectural composition, tactile micro-texture, subtle caustics, restrained contemporary design museum aesthetic. Expensive physical render, not cyberpunk, no excessive neon, no busy particles. Main shapes centered, image should also crop well as 4:5 portrait. No letters, text, logos, people, screens, watermark or website UI, no collage."
+  },
+  {
+    "asset": "workshop",
+    "generation": "built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Asset type: creative workshop service artwork for a creative studio website, wide 3:2 landscape. ORIGINAL beautifully art-directed still-life photograph of a sunlit modern creative atelier: a warm ivory plaster sculpture, charcoal sketchbook with completely blank cream pages, carefully arranged neutral paper studies and an unbranded metal task lamp on a walnut drafting table. Soft tall studio windows outside frame cast cinematic diagonal warm afternoon light, finely detailed wood grain, muted cream / walnut / graphite palette, quiet thoughtful creative atmosphere, magazine-quality architectural/editorial photography, 50mm lens. Compose objects close to center so portrait 4:5 cropping still reads. No people, no writing on pages, no real brand products, no logos, no watermark, no UI, not a collage."
+  }
+]

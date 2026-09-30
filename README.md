@@ -52,7 +52,7 @@ npm run start
 | News articles | `lib/news.ts`, `lib/news-imported.json`; match article IDs in both files |
 | Logo, colors and fonts | `components/brand/BrandLogo.tsx`, `app/globals.css`, `tailwind.config.ts`, `app/layout.tsx` |
 
-The bundled abstract SVG is an original placeholder, not a client asset. Team profiles are explicitly labeled examples. Add your own authorized media and replace sample text before launching a real business site. The workshop service demonstrates a course layout; it has no bundled courses, activities or project videos.
+The bundled hero and service artwork were generated with the built-in image_gen tool for this template and optimized as WebP. They are generic sample artwork, not real client work. The generation prompts are recorded in [docs/image-prompts.json](docs/image-prompts.json). Team profiles are explicitly labeled examples. Add your own authorized media and replace sample text before launching a real business site. The workshop service demonstrates a course layout; it has no bundled courses, activities or project videos.
 
 ## Optional integrations
 

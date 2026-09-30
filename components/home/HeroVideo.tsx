@@ -5,7 +5,7 @@ import { useReducedMotion } from "framer-motion";
 import type { HeroVideo as HeroVideoItem } from "@/types/hero-video";
 import { withBasePath } from "@/lib/base-path";
 
-const defaultPoster = "/images/demo-scene.svg";
+const defaultPoster = "/images/studio-hero.webp";
 
 type NavigatorWithConnection = Navigator & {
   connection?: { saveData?: boolean };
@@ -63,7 +63,7 @@ export function HeroVideo({ videos }: { videos: HeroVideoItem[] }) {
     <div className="absolute inset-0 bg-ink" aria-hidden="true">
       <picture>
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={withBasePath("/images/demo-scene.svg")} alt="" width={1672} height={941} fetchPriority="high" loading="eager" className={`absolute inset-0 size-full object-cover object-[63%_center] transition-opacity duration-700 ${ready ? "opacity-0" : "opacity-100"}`} />
+        <img src={withBasePath("/images/studio-hero.webp")} alt="" width={1672} height={941} fetchPriority="high" loading="eager" className={`absolute inset-0 size-full object-cover object-[88%_center] sm:object-[63%_center] transition-opacity duration-700 ${ready ? "opacity-0" : "opacity-100"}`} />
       </picture>
       {source ? (
         <video

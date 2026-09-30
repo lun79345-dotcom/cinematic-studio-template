@@ -6,4 +6,4 @@ Playfair Display, Noto Sans SC and Noto Serif SC are loaded through next/font/go
 
 npm dependencies retain their own license terms, including Next.js / React / Tailwind CSS / Framer Motion / Lenis / Nodemailer / Sharp (MIT) and Lucide (ISC). Consult each installed package for its complete license. The project's MIT license does not replace dependency licenses.
 
-The bundled logo and abstract scene are code-drawn placeholders. No original company logo, client media, personal portraits or project videos are included.
+The bundled logo and fallback SVG are code-drawn placeholders. Hero and service artwork are AI-generated sample images; prompts are included in docs/image-prompts.json. No original company logo, client media, personal portraits or project videos are included.

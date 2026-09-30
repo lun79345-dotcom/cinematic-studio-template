@@ -92,7 +92,7 @@ export const messages = {
       title: "让每种视角，\n形成创作的合力",
       description: "在这个区域介绍你的团队与协作方式。下方资料仅用于演示展示框架。",
       selectedWorks: "代表作品",
-      people: {"creator1":{"name":"创意方向 · 示例","role":"团队展示模板","description":"在这里介绍团队职责与创作方法。此资料仅用于演示页面布局。","imageAlt":"抽象团队展示插画","works":[]},"creator2":{"name":"视觉设计 · 示例","role":"团队展示模板","description":"在这里介绍团队职责与创作方法。此资料仅用于演示页面布局。","imageAlt":"抽象团队展示插画","works":[]},"creator3":{"name":"制作协作 · 示例","role":"团队展示模板","description":"在这里介绍团队职责与创作方法。此资料仅用于演示页面布局。","imageAlt":"抽象团队展示插画","works":[]}},    },
+      people: {"creator1":{"name":"创意方向 · 示例","role":"团队展示模板","description":"在这里介绍团队职责与创作方法。此资料仅用于演示页面布局。","imageAlt":"光影中漂浮的金色织物与沙丘，AI 生成示例","works":[]},"creator2":{"name":"视觉设计 · 示例","role":"团队展示模板","description":"在这里介绍团队职责与创作方法。此资料仅用于演示页面布局。","imageAlt":"蓝色空间中的玻璃拱门与金属球，AI 生成示例","works":[]},"creator3":{"name":"制作协作 · 示例","role":"团队展示模板","description":"在这里介绍团队职责与创作方法。此资料仅用于演示页面布局。","imageAlt":"暖阳下的雕塑、素描本与创作工作台，AI 生成示例","works":[]}},    },
     process: {
       title: "专业团队，\n标准化流程",
       description: "导演、制片人、内容策略与 AI 技术团队共同工作。从创意内容到增长和平台项目，始终由同一套标准把控目标、质量与交付。",
@@ -206,7 +206,7 @@ export const messages = {
       title: "Different perspectives,\none creative direction.",
       description: "Introduce your team and collaboration here. The profiles below only demonstrate the layout.",
       selectedWorks: "Selected work",
-      people: {"creator1":{"name":"Creative Direction · Example","role":"Team profile template","description":"Introduce your team and creative approach. This profile is a layout example.","imageAlt":"Abstract team illustration","works":[]},"creator2":{"name":"Visual Design · Example","role":"Team profile template","description":"Introduce your team and creative approach. This profile is a layout example.","imageAlt":"Abstract team illustration","works":[]},"creator3":{"name":"Production · Example","role":"Team profile template","description":"Introduce your team and creative approach. This profile is a layout example.","imageAlt":"Abstract team illustration","works":[]}},    },
+      people: {"creator1":{"name":"Creative Direction · Example","role":"Team profile template","description":"Introduce your team and creative approach. This profile is a layout example.","imageAlt":"Golden fabric and dunes in cinematic light, AI-generated example","works":[]},"creator2":{"name":"Visual Design · Example","role":"Team profile template","description":"Introduce your team and creative approach. This profile is a layout example.","imageAlt":"Glass arches and a metal sphere in blue space, AI-generated example","works":[]},"creator3":{"name":"Production · Example","role":"Team profile template","description":"Introduce your team and creative approach. This profile is a layout example.","imageAlt":"A sunlit sculpture, sketchbook and creative desk, AI-generated example","works":[]}},    },
     process: {
       title: "An Expert Team.\nA Proven Process.",
       description: "Directors, producers, content strategists, and AI technologists work as one team. From creative content to growth and platform initiatives, one set of standards governs objectives, quality, and delivery.",

@@ -174,7 +174,7 @@ function courseCoverUrl(cover: string) {
 
 function PublicCourseCover({ course }: { course: PublicCourse }) {
   const [failed, setFailed] = useState(false);
-  const source = failed ? withBasePath("/images/demo-scene.svg") : courseCoverUrl(course.cover);
+  const source = failed ? withBasePath("/images/creative-workshop.webp") : courseCoverUrl(course.cover);
 
   return (
     <Image
@@ -288,8 +288,8 @@ export function AigcTrainingLanding({ services, contact }: { services: ServiceNa
             transition={reduceMotion ? undefined : { duration: 14, ease: "easeInOut", repeat: Infinity }}
           >
             <Image
-              src={withBasePath("/images/demo-scene.svg")}
-              alt={locale === "zh" ? "老板电器 AIGC 品牌影片画面" : "A frame from the ROBAM AIGC brand film"}
+              src={withBasePath("/images/creative-workshop.webp")}
+              alt={locale === "zh" ? "暖阳下的创作工作台，AI 生成示例" : "A sunlit creative desk, AI-generated example"}
               fill
               priority
               sizes="100vw"

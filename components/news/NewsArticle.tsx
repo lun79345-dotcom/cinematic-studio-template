@@ -43,8 +43,8 @@ export function NewsArticle({ article }: { article: NewsArticleData }) {
           </div>
           <div className="mt-10 sm:mt-14">
             <Image
-              src={withBasePath("/images/demo-scene.svg")}
-              alt={locale === "zh" ? "Studio Template微信公众号二维码，可在微信搜索“Studio Template”关注" : "studio WeChat account QR code; search for Studio Template in WeChat to follow"}
+              src={withBasePath("/images/visual-storytelling.webp")}
+              alt={locale === "zh" ? "金色织物与光影构成的示例画面" : "Example image of golden fabric and cinematic light"}
               width={1080}
               height={396}
               sizes="(max-width: 864px) calc(100vw - 40px), 800px"

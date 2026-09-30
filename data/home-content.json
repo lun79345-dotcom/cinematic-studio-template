@@ -42,20 +42,20 @@
             "zh": "在后台编辑这个页面，替换为你自己的服务介绍、流程说明与图片。这里展示的是通用示例，不代表真实公司或项目。",
             "en": "Edit this page in the content dashboard with your services, workflow and images. This is a generic example, not a real company or project."
           },
-          "image": "/images/demo-scene.svg",
+          "image": "/images/visual-storytelling.webp",
           "imageAlt": {
-            "zh": "抽象视觉示例",
-            "en": "Abstract visual example"
+            "zh": "光影中漂浮的金色织物与沙丘，AI 生成示例",
+            "en": "Golden fabric and dunes in cinematic light, AI-generated example"
           }
         }
       ],
       "media": {
         "type": "image",
-        "src": "/images/demo-scene.svg"
+        "src": "/images/visual-storytelling.webp"
       },
       "imageAlt": {
-        "zh": "抽象视觉示例",
-        "en": "Abstract visual example"
+        "zh": "光影中漂浮的金色织物与沙丘，AI 生成示例",
+        "en": "Golden fabric and dunes in cinematic light, AI-generated example"
       },
       "imagePosition": "50% 50%",
       "iconKey": "film",
@@ -105,20 +105,20 @@
             "zh": "在后台编辑这个页面，替换为你自己的服务介绍、流程说明与图片。这里展示的是通用示例，不代表真实公司或项目。",
             "en": "Edit this page in the content dashboard with your services, workflow and images. This is a generic example, not a real company or project."
           },
-          "image": "/images/demo-scene.svg",
+          "image": "/images/digital-experiences.webp",
           "imageAlt": {
-            "zh": "抽象视觉示例",
-            "en": "Abstract visual example"
+            "zh": "蓝色空间中的玻璃拱门与金属球，AI 生成示例",
+            "en": "Glass arches and a metal sphere in blue space, AI-generated example"
           }
         }
       ],
       "media": {
         "type": "image",
-        "src": "/images/demo-scene.svg"
+        "src": "/images/digital-experiences.webp"
       },
       "imageAlt": {
-        "zh": "抽象视觉示例",
-        "en": "Abstract visual example"
+        "zh": "蓝色空间中的玻璃拱门与金属球，AI 生成示例",
+        "en": "Glass arches and a metal sphere in blue space, AI-generated example"
       },
       "imagePosition": "50% 50%",
       "iconKey": "wand-sparkles",
@@ -168,20 +168,20 @@
             "zh": "在后台编辑这个页面，替换为你自己的服务介绍、流程说明与图片。这里展示的是通用示例，不代表真实公司或项目。",
             "en": "Edit this page in the content dashboard with your services, workflow and images. This is a generic example, not a real company or project."
           },
-          "image": "/images/demo-scene.svg",
+          "image": "/images/creative-workshop.webp",
           "imageAlt": {
-            "zh": "抽象视觉示例",
-            "en": "Abstract visual example"
+            "zh": "暖阳下的雕塑、素描本与创作工作台，AI 生成示例",
+            "en": "A sunlit sculpture, sketchbook and creative desk, AI-generated example"
           }
         }
       ],
       "media": {
         "type": "image",
-        "src": "/images/demo-scene.svg"
+        "src": "/images/creative-workshop.webp"
       },
       "imageAlt": {
-        "zh": "抽象视觉示例",
-        "en": "Abstract visual example"
+        "zh": "暖阳下的雕塑、素描本与创作工作台，AI 生成示例",
+        "en": "A sunlit sculpture, sketchbook and creative desk, AI-generated example"
       },
       "imagePosition": "50% 50%",
       "iconKey": "book-open",
